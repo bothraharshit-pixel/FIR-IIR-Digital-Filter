@@ -106,9 +106,3 @@ run -all
 | Taps needed | More | Fewer |
 | Hardware | No feedback (simpler) | Has feedback |
 | Best for | Audio, communications | Sharp cutoff needed |
-
----
-
-## Relevance to Nvidia
-
-DSP pipelines are at the core of GPU workloads — from audio processing in GeForce to video encode/decode in Tegra. This project demonstrates the full MATLAB→HDL design flow, fixed-point arithmetic awareness, and understanding of synthesizable hardware — all skills directly applicable to Nvidia's signal processing and GPU compute teams.
